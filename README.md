@@ -35,7 +35,7 @@ purchase at [my little shop over at lectronz](https://lectronz.com/products/mtpi
 
 ## assembling the kit
 
-there's a [detailed assembly manual for the Mt. Pi](Mt_Pi_assembly_instructions.pdf).
+there's a [detailed assembly manual for the Mt. Pi](raw/main/Mt_Pi_assembly_instructions.pdf).
 
 ## tools required
 
